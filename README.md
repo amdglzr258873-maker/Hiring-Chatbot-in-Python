@@ -3,7 +3,7 @@
 # 🤖 Python Hiring Chatbot
 
 ## 📌 Project Overview
-The **Python Hiring Chatbot** is a simple command-line based chatbot designed to simulate a basic hiring interview process.  
+The **Python Hiring Chatbot** is a simple command-line based chatbot designed by M Ahmad Gulzar to simulate a basic hiring interview process.  
 It interacts with job applicants by asking structured questions about their education, skills, and eligibility, and then provides a hiring decision based on predefined criteria.
 
 This project is ideal for beginners learning Python basics such as conditional statements, user input handling, lists, and program flow control.
